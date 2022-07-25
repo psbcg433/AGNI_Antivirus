@@ -3,6 +3,8 @@
 ### Developed by Prashnik Das (@psbcg433) & Birju Mandal(@cydev007) 
 
 *************************************************************************************************************************************************************
+NOTE: plz change the path of the hash files otherwise save the project in path D:\\TNU\\4th Sem\\Python\lab\\AGNI Total Security
+*************************************************************************************************************************************************************
 
 ## i. Malicious File Detection 
 This tool uses a signature based malicious detection script to  determine virus, payloads and malicious files. A database containing  MD5, SHA256 and SHA1 hashes of virus files ( Source: https://virusshare.com/ ) is used by  our application to  detect if a scanned file is malicious or not.  
